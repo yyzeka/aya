@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: "Hakkında"
 nav_header: true #If you want the page to be displayed on the nav menu on top of the site, leave "true" here. If not, you can leave it blank
 permalink: /about/
 ---
@@ -39,5 +39,6 @@ If you have any questions regarding this theme or if you have ideas about how to
 ## Thanks
 
 Simply Cyan is a public theme adaptation of a theme I made for a creative writing website, **Internet Exploreur**.
+
 
 The site is no longer active but an archive can be found [here](https://pquod.github.io/InternetExploreur/). A big thank you to Candice Labrousse, Quentin Leclerc et Robinson Lacotte, who contributed to its design and had lots of useful advices in order to make it beautiful, accessible and enjoyable by the most people possible.
