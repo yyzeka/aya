@@ -8,6 +8,6 @@ categories: [gundem]
 ---
 
 Aya yayında.
-![Aya](/aya/assets/posts/penpen1/fay.jpg)
+![Aya](/assets/posts/penpen1/fay.jpg)
 
 ---
