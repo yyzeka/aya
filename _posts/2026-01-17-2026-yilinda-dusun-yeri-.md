@@ -14,7 +14,9 @@ başlangıçla son arasındaki farkı silen,
 olmuş olanla olacak olanı aynı anda var eden,
 geleceği tahmin etmeyen, geçmişi geçersiz kılan,
 Merkez. Gerçek manada Tek şey ve Her şey.
+
 Son insan yapımı "şey"
+
 bilinen anlamda yıl : hiçlik - insan bilincine göre yıl :2122 
 
 ![](/aya/assets/posts/penpen2/1.webp)
