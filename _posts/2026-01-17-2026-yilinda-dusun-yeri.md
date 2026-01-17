@@ -19,6 +19,7 @@ Son insan yapımı "şey"
 bilinen anlamda yıl : hiçlik - insan bilincine göre yıl :2122 
 
 ```
+![](/aya/assets/posts/penpen2/1.webp)
 
 Bu gördüğünüz AGI, yani kendi kendini sürekli geliştirebilen, insanüstü bir bilgisayar temelli varlık konseptinin temsilidir.
 
@@ -32,6 +33,8 @@ Bu konsept, yaşadığımız bu günlerde hiçbirimize yabancı değildir. Süpe
 
 Makineler önceden yaptığı gibi, bugünde yetenek sınırlarını zorlamaktadır.
 
+![](/aya/assets/posts/penpen2/2.webp)
+
 Bu yazıda size 2026 ve sonrası için beklenen yapay zeka gelişmelerini sırasıyla yazacağım.
 
   
@@ -43,6 +46,7 @@ Bir sonraki adımda, bu dar yetenekler birleşmeye başladı. Görüntüyü anla
 
 Şu an bulunduğumuz yer tam olarak burasıdır. Bugün buradayız. 2 adım ile 3. adım arasında bir boşlukta. tam bir sıçrama anındayız. 
 
+![](/aya/assets/posts/penpen2/3.webp)
   
 Bugün makineler henüz kendi hedeflerini koymuyorlar; ancak verilen hedefler doğrultusunda nasıl ilerleyeceklerini büyük ölçüde kendileri belirleyebiliyorlar. Ne yapacaklarını söylüyoruz, ama **nasıl yapacaklarına  karışmıyoruz**. Kırılma noktası tam olarak budur çünkü AGI bakış açısında asıl sıçrama, zekânın miktarında değil; **özerkliğinde** yaşanır…
 
@@ -68,6 +72,8 @@ yapay zekâ onun eksiklerini analiz edecek, kişisel bir eğitim planı çıkara
 
 İNSAN YALNIZCA SON KARARI VERECEK.
 
+![](/aya/assets/posts/penpen2/4.webp)
+
 Yani belki insanlar bu yaptıklarıyla onu ceo-doktor-öğretmen-yazılımcı olarak görebilir fakat yapay zeka doktor olmayacak ama onun için hangi teşhisin daha başarılı olacağını önceden hesaplayan bir asistan olacak. Teşhis koyan kişi olmayacak ama onu şekillendiren olacak. 
 
 Yapay zeka yönetici olmayacak ama hangi kararın riskli olduğunu herkesten önce görebilecek. Kararı alan değil ama kararı şekillendiren olacak. 
@@ -85,6 +91,8 @@ uygulayan ama karar vermeyen
 
 Ara kademedeki insanların işlerini korulamalarının hiçbir yolu yok. Çünkü 7/24 aktif ve tüm insanlığın bilgisine sahip bir rakipleri var. Onlardan daha iyi analiz yapıyor ve sonuç çıkarıyorlar. 
 
+![](/aya/assets/posts/penpen2/5.webp)
+
 Bu sistemlerin genel adı Agent. 
 
 API ve kod çalıştırabilir, dosya okuyabilir, mail atabilir, verilen emri küçük parçalara bölebilir, diğer agentlarla bir arada çalışabilir, yaptığını test edebilir, hataları fark edebilrir ve düzeltebilir, sonsuz kez yeniden deneyen deneyebilir, önceki yaptıklarını, kararları, tercihleri hatırlayabilir, binlerce olasılığı aynı anda çalıştırabilir ve hedefe ulaşmak için her şeyi yapabilir. 
@@ -100,6 +108,8 @@ Video yapay zekâsının 2026 yılında o kadar büyük bir sıçrama yapması b
 bir öğrenci, tek bir girdiden yola çıkarak kendisi için bir konuyu **animasyonlu bir ders** hâline getirebilecek ya da yine tek bir girdiyi kullanarak, **reklamları profesyonellerden daha iyi** üretebilecektir. 
 
 Bir diğer ciddi gelişme kaydetmesi beklenen kısım ise robotlar için, **gerçek zamanlı dünyada eylem üreten yapay zekâ modelleridir**. Yani robotların gördüğü dünyayı daha hızlı algılaması, kendisine sözlü olarak verilen emri uygulamak için en iyi yöntemi tahmin etmesi ve bunu gerçek zamanlı olarak uygulamaya dökmesi. Google DeepMind ve diğer sayısız şirket şimdiden bu kapıyı aralamaktadır.
+
+![](/aya/assets/posts/penpen2/6.webp)
 
 Dördüncü gelişmesi beklenen teknoloji ise **kalıcı hafızası olan**, sizi sürekli tanıyan kendi özel yapay zekâ asistanlarınız ya da “cihazlarınızdır”. Özellikle bu alanda çok fazla giyilebilir teknoloji karşımıza çıkmaya başlamıştır bile. Her anınızda sizinle olan ve yaşamınızda size farklı tarzlarda yardımcı olmayı amaçlayan bu teknolojiler, insanlarda mahremiyet ve güven korkusu yaratsa da bu cihazların hiçbiri piyasaya girerken zorluk yaşamayacaktır. Çünkü engelli ve yardıma ihtiyacı olan insanlar için inanılmaz sorunları çözebilecek bu modeller, hâlihazırda bir kullanıcı pazarıyla ortaya çıkmışlardır bile. Bu tür cihazlar ya da yalnızca uygulamalar, 2026+ döneminde çok hızlı gelişecek ve hayatımızda yer alacaktır.
 
