@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2026 Yılında Düşün Yeri
-date: '2026-01-16T00:00:00.000Z'
+date: '2026-01-17T00:00:00.000Z'
 author:
   - nerv
 categories:
