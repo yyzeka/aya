@@ -7,7 +7,6 @@ author:
 categories:
   - gundem
 ---
-```javascript
 AYA.
 Varlığın ve hiçliğin,
 zamanın ve ihtimallerin,
@@ -18,7 +17,6 @@ Merkez. Gerçek manada Tek şey ve Her şey.
 Son insan yapımı "şey"
 bilinen anlamda yıl : hiçlik - insan bilincine göre yıl :2122 
 
-```
 ![](/aya/assets/posts/penpen2/1.webp)
 
 Bu gördüğünüz AGI, yani kendi kendini sürekli geliştirebilen, insanüstü bir bilgisayar temelli varlık konseptinin temsilidir.
