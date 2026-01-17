@@ -95,7 +95,7 @@ Ara kademedeki insanların işlerini korulamalarının hiçbir yolu yok. Çünk�
 
 Bu sistemlerin genel adı Agent. 
 
-API ve kod çalıştırabilir, dosya okuyabilir, mail atabilir, verilen emri küçük parçalara bölebilir, diğer agentlarla bir arada çalışabilir, yaptığını test edebilir, hataları fark edebilrir ve düzeltebilir, sonsuz kez yeniden deneyen deneyebilir, önceki yaptıklarını, kararları, tercihleri hatırlayabilir, binlerce olasılığı aynı anda çalıştırabilir ve hedefe ulaşmak için her şeyi yapabilir. 
+API ve kod çalıştırabilir, dosya okuyabilir, mail atabilir, verilen emri küçük parçalara bölebilir, diğer agentlarla bir arada çalışabilir, yaptığını test edebilir, hataları fark edebilrir ve düzeltebilir, sonsuz kez yeniden deneyebilir, önceki yaptıklarını, kararları, tercihleri hatırlayabilir, binlerce olasılığı aynı anda çalıştırabilir ve hedefe ulaşmak için her şeyi yapabilir. 
 
 Agent sistemleri 2026 ve sonrasında o kadar gelişecekki, şirketlerin birbiri ile rekabet etmek için zorunlu bir modeli haline gelecekler. 
 
